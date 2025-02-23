@@ -1698,7 +1698,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="a2wjCif8rdcZKE2Xwe_f" name="03-Sigma Notation-Standard Deviation">
-        <mxGraphModel dx="1728" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1728" dy="363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -2733,6 +2733,9 @@
                 </mxCell>
                 <mxCell id="bsVcQLtr2zWGoAMbSAz1-227" value="" style="shape=stencil(lVbLUsMwDPyaXDWWbPlxhvIfzNDSDKVl2vL6e2QySSq3EcPNcbKxV7sru/N3p+3j27ojdzofDy/rz/7pvO38fUfU77frY3+WUedXnb/bHI7r5+Phff80PL891i/r6PXwUf/wNeByASwVRe57mPERAv3OPAyAXb+/AJQIFBQgyIw3AAVSVgBOkJIJCKwAsUAOBoCBNIeMgMYKWTZAClAccF4GpASsSZcEriwDIkPWK6Bz4Nwygn1bJqmDM4QIBLEBBCBeBngPsSlTBDRYk5RJs04M0agrMYSklfOQ0VwBnfYGQrY4ULtCQHCGN+pr1P4mYEsHHL02AuomjRVmihOAgQ3ScxEvVkiGmapMTUbFLFbkJiNMVaLR8UuRc9qubAt34eZJajaVq4HRdq2higZAIqnLVGNrsK6hjzoQDN6QurYVrVxtPcaW+CoQc3O77b4r5YrdLKX5el2luUEvAsp/ABTBaW9kEc4gjbGtUnaAltJA2hlJQmvI4Ns+Jolyxv/FF5oASyc0CFw5VXqC2ZTAaRt5NPlGiDo7hKbt0I/lmM4GGk+L2xuiNp1iIoOA7Lfo5NhN9fok+fOoYmy+T0oAGcwXjk2/2w33lcv37QVFpobLjV/9AA==);lineShape=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
                     <mxGeometry x="277.32477832117706" y="197.30841515643817" width="2.6858962597100344" height="2.6873734828665383" as="geometry"/>
+                </mxCell>
+                <mxCell id="bsVcQLtr2zWGoAMbSAz1-228" value="" style="shape=stencil(lVbLUsMwDPyaXDWWbPlxhvIfzNDSDKVl2vL6e2QySSq3EcPNcbKxV7sru/N3p+3j27ojdzofDy/rz/7pvO38fUfU77frY3+WUedXnb/bHI7r5+Phff80PL891i/r6PXwUf/wNeByASwVRe57mPERAv3OPAyAXb+/AJQIFBQgyIw3AAVSVgBOkJIJCKwAsUAOBoCBNIeMgMYKWTZAClAccF4GpASsSZcEriwDIkPWK6Bz4Nwygn1bJqmDM4QIBLEBBCBeBngPsSlTBDRYk5RJs04M0agrMYSklfOQ0VwBnfYGQrY4ULtCQHCGN+pr1P4mYEsHHL02AuomjRVmihOAgQ3ScxEvVkiGmapMTUbFLFbkJiNMVaLR8UuRc9qubAt34eZJajaVq4HRdq2higZAIqnLVGNrsK6hjzoQDN6QurYVrVxtPcaW+CoQc3O77b4r5YrdLKX5el2luUEvAsp/ABTBaW9kEc4gjbGtUnaAltJA2hlJQmvI4Ns+Jolyxv/FF5oASyc0CFw5VXqC2ZTAaRt5NPlGiDo7hKbt0I/lmM4GGk+L2xuiNp1iIoOA7Lfo5NhN9fok+fOoYmy+T0oAGcwXjk2/2w33lcv37QVFpobLjV/9AA==);lineShape=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="309.9636333016458" y="218.2944838820241" width="2.6858962597100344" height="2.6873734828665383" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
