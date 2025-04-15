@@ -1,2 +1,2 @@
 # BFS-Algorithm
-Breadth-first search algorithm in C++
+Algorithms Analysis and Design
